@@ -1,4 +1,4 @@
-  # 📊 Basanta Shahi — Data Analyst
+# 📊 Basanta Shahi — Data Analyst
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=0B5394&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Mississauga%2C+ON;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;3%2B+Years+in+QA+%26+Data+Governance;ISTQB+CTFL+Certified;IBM+Data+Analyst+Professional" alt="Typing SVG" />
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/IBM-Data_Analyst_Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/ISTQB-CTFL_Certified-1F4E79?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Azure-AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
- 
+  <img src="https://komarev.com/ghpvc/?username=basanta999s-ship-it&color=0B5394&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -70,11 +70,23 @@ analyst = {
 
 ## 📁 Featured Projects
 
-| Project | Question It Answers | Stack |
-|---------|--------------------|-------|
-| [Car Sales Analysis Dashboard](https://github.com/<your-username>/car-sales-dashboard) | Does price or brand actually drive resale value retention? | Excel · Power Query · PivotTables |
-| [Stock Price & Revenue Analysis](https://github.com/<your-username>/stock-price-revenue-analysis) | Does share price really track reported quarterly revenue? | Python · yfinance · BeautifulSoup · Plotly |
-| [QA Defect Analysis Workbook](https://github.com/<your-username>/qa-defect-analysis) | Where do defects cluster, and which ones cost the most to fix late? | Excel · SQL |
+<!-- LIVE — these repos exist -->
+
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| [Automation Exercise API Testing](https://github.com/basanta999s-ship-it/AutomationExercise-API) | API test suite covering the Automation Exercise endpoints | Postman · Newman · Shell |
+| [Portfolio](https://github.com/basanta999s-ship-it/Portfolio) | Personal portfolio site | JavaScript · HTML · CSS |
+
+<!--
+NOT YET CREATED — uncomment each row once the repo is public.
+The URLs below are already correct; they will work the moment
+you create a repo with that exact name under your account.
+
+| [Car Sales Analysis Dashboard](https://github.com/basanta999s-ship-it/car-sales-dashboard) | Does price or brand actually drive resale value retention? | Excel · Power Query · PivotTables |
+| [Stock Price & Revenue Analysis](https://github.com/basanta999s-ship-it/stock-price-revenue-analysis) | Does share price really track reported quarterly revenue? | Python · yfinance · BeautifulSoup · Plotly |
+| [QA Defect Analysis Workbook](https://github.com/basanta999s-ship-it/qa-defect-analysis) | Where do defects cluster, and which cost the most to fix late? | Excel · SQL |
+| [Airbnb Toronto Market Analysis](https://github.com/basanta999s-ship-it/airbnb-toronto-analysis) | How do pricing, occupancy, and superhost status interact across 22,000+ listings? | Python · pandas · Power BI |
+-->
 
 ---
 
@@ -100,23 +112,28 @@ That's the background I bring to analytics — not just producing a number, but 
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0B5394&icon_color=4479A1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0B5394" />
-</p>
+Commented out deliberately. See notes below before turning this on.
 
----
+Add back once you have several months of commit history and at least
+three data-focused repos. Then uncomment:
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=basanta999s-ship-it&show_icons=true&theme=tokyonight&hide_border=true&title_color=0B5394&icon_color=4479A1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basanta999s-ship-it&layout=compact&langs_count=6&hide=shell,html,css,jupyter%20notebook&theme=tokyonight&hide_border=true&title_color=0B5394" />
+</p>
+-->
 
 ## 🤝 Let's Connect
 
 Open to: **Data Analyst · Junior Data Analyst · Reporting Analyst · BI Analyst · Data QA** roles across the GTA
 
 <p align="center">
-  <p align="center"> <a href="https://www.linkedin.com/in/basanta-shahi/>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/basanta-shahi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:Basanta999s@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/<your-username>"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/basanta999s-ship-it"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
