@@ -104,7 +104,7 @@ you create a repo with that exact name under your account.
 
 ## 💼 Where I'm Coming From
 
-**Quality Assurance & Governance Analyst** · Daraz Kaymu Pvt. Ltd. (Alibaba Group) · 2019–2022
+**Data Quality Assurance & Governance Analyst** · Daraz Kaymu Pvt. Ltd. (Alibaba Group) · 2019–2022
 
 Three and a half years owning testing and data governance across a high-traffic e-commerce platform and its connected ERP systems. Most of that work came down to one question asked repeatedly: *why is this number wrong?* Cleaning bulk product data, designing rule-based controls to catch bad listings before they went live, and building the monthly reports that stakeholders actually read.
 
