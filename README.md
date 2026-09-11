@@ -70,10 +70,11 @@ analyst = {
 
 ## 📁 Featured Projects
 
-<!-- LIVE — these repos exist -->
+<!-- LIVE — every link here resolves today -->
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
+| [Superstore Profitability & Risk Modelling](https://basanta999s-ship-it.github.io/#projects) | Which orders lose money, and can we flag them before they close? 51,290 orders, five classifiers benchmarked — XGBoost at 0.969 ROC-AUC | Python · Pandas · scikit-learn · XGBoost · TensorFlow |
 | [Automation Exercise API Testing](https://github.com/basanta999s-ship-it/AutomationExercise-API) | API test suite covering the Automation Exercise endpoints | Postman · Newman · Shell |
 | [Portfolio](https://github.com/basanta999s-ship-it/Portfolio) | Personal portfolio site | JavaScript · HTML · CSS |
 
