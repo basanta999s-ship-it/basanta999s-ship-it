@@ -20,7 +20,7 @@ analyst = {
     "name": "Basanta Shahi",
     "location": "Mississauga, Ontario 🇨🇦",
     "current": "Junior Data Analyst Program @ NPower Canada",
-    "background": "3.5 years as QA & Governance Analyst @ Daraz (Alibaba Group)",
+    "background": "3.5 years as Data QA & Governance Analyst @ Daraz (Alibaba Group)",
     "education": [
         "Post-Grad Certificate, Full-Stack Software Development — Lambton College",
         "BSc Computer Science & IT — Tribhuvan University (WES accredited)",
