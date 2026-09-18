@@ -75,7 +75,7 @@ analyst = {
 | Project | What It Does | Stack |
 |---------|-------------|-------|
 | [Superstore Profitability & Risk Modelling](https://basanta999s-ship-it.github.io/#projects) | Which orders lose money, and can we flag them before they close? 51,290 orders, five classifiers benchmarked — XGBoost at 0.969 ROC-AUC | Python · Pandas · scikit-learn · XGBoost · TensorFlow |
-| [Automation Exercise API Testing](https://github.com/basanta999s-ship-it/AutomationExercise-API) | API test suite covering the Automation Exercise endpoints | Postman · Newman · Shell |
+| [Clinic Appointments — Cleaning & EDA](https://github.com/basanta999s-ship-it/clinic-appointments-analysis) | 1,000 deliberately messy appointment records: 8 spellings of gender, 4 currency symbols, dates in two formats. Cleaned, then tested whether age predicts department — it doesn't (χ² = 11.28, p = 0.26) | Python · Pandas · Matplotlib · Seaborn · SciPy |
 | [Portfolio](https://github.com/basanta999s-ship-it/Portfolio) | Personal portfolio site | JavaScript · HTML · CSS |
 
 <!--
